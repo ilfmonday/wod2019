@@ -6,12 +6,12 @@
 
 <meta http-equiv="Content-Language" content="cn">
 
-<link rel="SHORTCUT ICON" href="http://info.world-of-dungeons.org/wod/css/WOD.gif" type="image/gif">
+<link rel="SHORTCUT ICON" href="https://info.world-of-dungeons.org/wod/css/WOD.gif" type="image/gif">
     
     
 
-<script type="text/javascript" src="http://canto.world-of-dungeons.org/wod/javascript/wod_standard.js?1426443226"></script>
-<script type="text/javascript" src="http://canto.world-of-dungeons.org/wod/javascript/wodtooltip.js?1426443226"></script>
+<script type="text/javascript" src="https://canto.world-of-dungeons.org/wod/javascript/wod_standard.js?1426443226"></script>
+<script type="text/javascript" src="https://canto.world-of-dungeons.org/wod/javascript/wodtooltip.js?1426443226"></script>
 
 
 
@@ -21,9 +21,9 @@
 
 
 	<title>战报</title>
-	<link rel="stylesheet" type="text/css" href="http://canto.world-of-dungeons.org/wod/css/layout.css?1426443226">
+	<link rel="stylesheet" type="text/css" href="https://canto.world-of-dungeons.org/wod/css/layout.css?1426443226">
 
-    <link rel="stylesheet" type="text/css" href="http://canto.world-of-dungeons.org/wod/css//skins/skin-4/skin-cn.css?1426443226">
+    <link rel="stylesheet" type="text/css" href="https://canto.world-of-dungeons.org/wod/css//skins/skin-4/skin-cn.css?1426443226">
         <style type="text/css">
 /*<![CDATA[*/
       .tableMinWidthRespectingContent {
@@ -36,7 +36,7 @@
     </style>
   <script type="text/javascript">window.onload = function(e){wodToolTipInit();wodInitialize('canto.world-of-dungeons.org','','/wod/spiel/','/wod/ajax/','WOD','cn','/wod/css//skins/skin-4/','/wod/css/','1','1');}
 function o(t,n){ 
- var url="http://canto.world-of-dungeons.org/wod/spiel/";
+ var url="https://canto.world-of-dungeons.org/wod/spiel/";
 if(t=="n"){url += "help/npc"}
 if(t=="s"){url += "hero/skill"}
 if(t=="i"){url += "hero/item"}
