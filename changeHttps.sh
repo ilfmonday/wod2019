@@ -4,7 +4,7 @@
 CUR_PATH=`pwd`
 PYTHON_CMD='python mergeIndexsHtml.py'
 
-cd greenday
+cd docs/greenday
 echo `pwd`
 python mergeIndexsHtml.py
 cd $CUR_PATH
