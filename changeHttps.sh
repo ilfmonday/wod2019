@@ -9,11 +9,11 @@ echo `pwd`
 python mergeIndexsHtml.py
 cd $CUR_PATH
 
-cd buganGaoshengYu
+cd docs/buganGaoshengYu
 python mergeIndexsHtml.py
 cd $CUR_PATH
 
-cd congcijunwang
+cd docs/congcijunwang
 python mergeIndexsHtml.py
 cd $CUR_PATH
 
