@@ -9,12 +9,4 @@ echo `pwd`
 python mergeIndexsHtml.py
 cd $CUR_PATH
 
-cd docs/buganGaoshengYu
-python mergeIndexsHtml.py
-cd $CUR_PATH
-
-cd docs/congcijunwang
-python mergeIndexsHtml.py
-cd $CUR_PATH
-
-grep -rl "http:\/\/" . | xargs sed -i "" 's/http:\/\//https:\/\//g'
+grep -rl "http:\/\/" ./docs/greenday | xargs sed -i "" 's/http:\/\//https:\/\//g'
